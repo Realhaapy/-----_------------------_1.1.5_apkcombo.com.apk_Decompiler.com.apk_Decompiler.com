@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Vector</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="17.-집사의-자랑" transform="translate(-175.000000, -1233.000000)" stroke-width="1.5">
+            <g id="Group-3" transform="translate(0.000000, 1212.000000)">
+                <g id="Group-2" transform="translate(150.000000, 0.000000)">
+                    <g id="Group_2613" transform="translate(26.000000, 22.000000)">
+                        <path d="M24,12 C24,18.6274166 18.6274166,24 12,24 C5.37258312,24 0,18.6274166 0,12 C0,5.37258312 5.37258312,0 12,0 C15.1825975,0 18.2348448,1.26428208 20.4852816,3.51471888 C22.7357184,5.7651552 24,8.81740248 24,12 Z" id="Combined-Shape" stroke="#000000" fill="#161719"></path>
+                        <path d="M17.1428571,18.8568238 C16.8320352,18.0471531 16.3227237,17.3285753 15.6617143,16.7671096 C13.5595319,15.0026047 10.500258,14.9803005 8.3725715,16.7139668 C7.70243237,17.2654858 7.18138179,17.9763307 6.85714286,18.7813953" id="Ellipse_949" stroke="#FAFAFA" transform="translate(12.000000, 17.142698) rotate(-180.000000) translate(-12.000000, -17.142698) "></path>
+                        <line x1="6.85714286" y1="10.2857143" x2="6.85714286" y2="8.57142857" id="Vector-2" stroke="#FAFAFA"></line>
+                        <line x1="17.1428571" y1="10.2857143" x2="17.1428571" y2="8.57142857" id="Vector-3" stroke="#FAFAFA"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

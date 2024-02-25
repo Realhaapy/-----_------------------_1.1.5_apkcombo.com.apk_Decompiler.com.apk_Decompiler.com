@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Vector</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="21.-집사의-수다" transform="translate(-249.000000, -753.000000)" stroke-width="1.5">
+            <g id="Group-3" transform="translate(0.000000, 732.000000)">
+                <g id="Group-2" transform="translate(225.000000, 0.000000)">
+                    <g id="Vector" transform="translate(25.000000, 22.000000)">
+                        <path d="M6.27959896,0 L17.7224568,0 C21.215419,0.026411388 24.0258281,2.87903088 24.0003446,6.372 L24.0003446,14.1085704 C24.0124887,15.7862688 23.3578217,17.4001409 22.1801896,18.5951328 C21.002559,19.790125 19.3984393,20.46834 17.7207425,20.4805714 L6.27959896,20.4805714 L-3.55276789e-15,24 L-3.55276789e-15,6.372 C-0.01214994,4.6943028 0.642519753,3.08043024 1.82015061,1.88543844 C2.99778152,0.690446904 4.60190143,0.0122309232 6.27959896,0 Z" id="Vector-5" stroke="#000000" fill="#161719"></path>
+                        <line x1="6.00017091" y1="7.31485714" x2="18.0001709" y2="7.31485714" id="Vector-5-path" stroke="#FAFAFA"></line>
+                        <line x1="7.50017091" y1="11.7017143" x2="16.5001709" y2="11.7017143" id="Vector-5-path" stroke="#FAFAFA"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

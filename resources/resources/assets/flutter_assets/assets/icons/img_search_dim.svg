@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_search_dim</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5">
+        <g id="10.-메인" transform="translate(-269.000000, -531.000000)" stroke="#B2B2B2" stroke-width="1.5">
+            <g id="Group" transform="translate(189.000000, 451.000000)">
+                <g id="img_search_dim" transform="translate(81.000000, 81.000000)">
+                    <path d="M0,9.88335214 C0,5.16856553 3.33065924,1.11041276 7.95488924,0.190789217 C12.5791188,-0.72883433 17.2089914,1.74621212 19.0129572,6.10223259 C20.8169237,10.4582533 19.292526,15.4819769 15.3720632,18.1009784 C11.4515998,20.7199819 6.22702663,20.2048004 2.89360252,16.8705094 C1.04080932,15.0172359 0,12.5039369 0,9.88335214 Z" id="Vector"></path>
+                    <line x1="19.7632226" y1="19.7641637" x2="23.9990589" y2="24" id="Vector-2"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

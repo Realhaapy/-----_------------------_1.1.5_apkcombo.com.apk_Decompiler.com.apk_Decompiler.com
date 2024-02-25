@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Vector</title>
+    <g id="[5차-최종-수정사항-모음]" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-2" transform="translate(-32.000000, -26.000000)" stroke="#B2B2B2" stroke-width="1.5">
+            <g id="Vector" transform="translate(33.000000, 27.000000)">
+                <path d="M11.25,3.75 C11.25,5.8210677 9.5710677,7.5 7.5,7.5 C5.42893223,7.5 3.75,5.8210677 3.75,3.75 C3.75,1.67893223 5.42893223,0 7.5,0 C8.49456173,0 9.448389,0.39508815 10.1516505,1.09834965 C10.854912,1.801611 11.25,2.75543827 11.25,3.75 Z" id="Vector-13"></path>
+                <path d="M11.8750005,11.25 L3.12499995,11.25 C1.39911015,11.25 0,12.6491102 0,14.375 C0,16.1008898 1.39911015,17.5 3.12499995,17.5 L11.8750005,17.5 C13.60089,17.5 15,16.1008898 15,14.375 C15,12.6491102 13.60089,11.25 11.8750005,11.25 L11.8750005,11.25 Z" id="Vector-14"></path>
+            </g>
+        </g>
+    </g>
+</svg>

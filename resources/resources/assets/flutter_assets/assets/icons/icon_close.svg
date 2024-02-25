@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_close</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7.-스토리-자기소개-등록_스토리" transform="translate(-325.000000, -189.000000)">
+            <g id="icon_close" transform="translate(325.000000, 189.000000)">
+                <path d="M0,11.9996266 C0.000413031886,6.2750904 4.0445283,1.34801976 9.65914405,0.231593496 C15.2737596,-0.884832768 20.8951411,2.12032272 23.0855011,7.40923968 C25.2758587,12.6981569 23.4251565,18.7978121 18.6651996,21.9779256 C13.9052422,25.1580384 7.56173399,24.5329176 3.51408235,20.4848496 C1.26382865,18.2343672 0,15.1821288 0,11.9996266 Z" id="Vector-45" fill="#161719"></path>
+                <path d="M7.4995661,16.4976518 L11.9993058,11.9996263 M11.9993058,11.9996263 L16.4973312,7.49817246 M11.9993058,11.9996263 L16.4990454,16.4976518 M11.9993058,11.9996263 L7.4995661,7.49817246" id="Vector-46" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

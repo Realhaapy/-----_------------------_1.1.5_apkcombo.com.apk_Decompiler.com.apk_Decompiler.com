@@ -1,0 +1,53 @@
+<svg width="46" height="45" viewBox="0 0 46 45" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="1.42%" id="3q6j83zx8c">
+            <stop stop-color="#FF6759" offset="0%"/>
+            <stop stop-color="#FFB5AE" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.768%" x2="50%" y2="0%" id="tvay041huf">
+            <stop stop-color="#FABE98" offset="0%"/>
+            <stop stop-color="#FFE3C8" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="1.42%" id="ncbovuayvh">
+            <stop stop-color="#FF7606" offset="0%"/>
+            <stop stop-color="#FFD2AE" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.768%" x2="50%" y2="0%" id="esle7978ii">
+            <stop stop-color="#FABE98" offset="0%"/>
+            <stop stop-color="#FFE3C8" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="1.42%" id="3zb0u5ls3j">
+            <stop stop-color="#FF7606" offset="0%"/>
+            <stop stop-color="#FFD2AE" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="1.42%" id="ennkidwsik">
+            <stop stop-color="#FF7606" offset="0%"/>
+            <stop stop-color="#FFD2AE" offset="100%"/>
+        </linearGradient>
+        <path id="muqumrmy8a" d="M0 0h46v5.4H0z"/>
+        <path id="sa73jxfe7b" d="M0 0h42.392v42.3H0z"/>
+        <path id="ayg5jd12ue" d="M0 45h46V0H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(.902)">
+            <mask id="lknyxl3pod" fill="#fff">
+                <use xlink:href="#sa73jxfe7b"/>
+            </mask>
+            <path fill="url(#3q6j83zx8c)" mask="url(#lknyxl3pod)" d="M0 17.516 20.745 0 41.49 17.516V42.3H0z"/>
+        </g>
+        <path d="M35.698 32.4H7.597a.384.384 0 0 1-.381-.386V3.986c0-.213.17-.386.38-.386h28.102c.21 0 .38.173.38.386v28.028c0 .213-.17.386-.38.386" fill="#F1F2F2"/>
+        <path d="M35.698 3.6H7.597c-.21 0-.381.231-.381.516V4.5c0-.285.17-.517.38-.517h28.102c.21 0 .38.232.38.517v-.384c0-.285-.17-.516-.38-.516" fill="#FFF"/>
+        <mask id="qe7lrznyvg" fill="#fff">
+            <use xlink:href="#ayg5jd12ue"/>
+        </mask>
+        <path fill="url(#tvay041huf)" mask="url(#qe7lrznyvg)" d="M19.843 9h12.628V7.2H19.843zM19.843 11.7h12.628V9.9H19.843z"/>
+        <path fill="url(#ncbovuayvh)" mask="url(#qe7lrznyvg)" d="M10.824 14.4h7.215V7.2h-7.215z"/>
+        <path fill="url(#tvay041huf)" mask="url(#qe7lrznyvg)" d="M19.843 15.3h12.628v-1.8H19.843z"/>
+        <path fill="url(#esle7978ii)" mask="url(#qe7lrznyvg)" d="M10.824 18H32.47v-1.8H10.824zM10.824 24.3H32.47v-1.8H10.824zM10.824 20.7H32.47v-1.8H10.824zM10.824 27H32.47v-1.8H10.824zM10.824 29.7H32.47v-1.8H10.824z"/>
+        <path fill="url(#3zb0u5ls3j)" mask="url(#qe7lrznyvg)" d="m.902 18 17.137 12.15L.902 42.3z"/>
+        <path fill="#F8DB1D" mask="url(#qe7lrznyvg)" d="M.902 18v.238L17.704 30.15.902 42.062v.238l17.137-12.15z"/>
+        <path fill="url(#3zb0u5ls3j)" mask="url(#qe7lrznyvg)" d="M42.392 18 25.255 30.15 42.392 42.3z"/>
+        <path fill="#F8DB1D" mask="url(#qe7lrznyvg)" d="M42.392 18v.238L25.591 30.15l16.801 11.912v.238L25.255 30.15z"/>
+        <path fill="url(#ennkidwsik)" mask="url(#qe7lrznyvg)" d="M25.731 29.71H18.48v-.01L.902 42.3h42.392z"/>
+    </g>
+</svg>

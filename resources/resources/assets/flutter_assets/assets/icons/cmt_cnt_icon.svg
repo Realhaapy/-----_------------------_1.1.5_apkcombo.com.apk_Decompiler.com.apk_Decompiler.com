@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Vector</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="17.-집사의-자랑" transform="translate(-152.000000, -684.000000)">
+            <g id="Group-8" transform="translate(0.000000, 173.000000)">
+                <g id="Group" transform="translate(0.000000, 72.000000)">
+                    <g id="Group-11" transform="translate(0.000000, 425.000000)">
+                        <g id="Group-10" transform="translate(20.000000, 14.000000)">
+                            <g id="Vector" transform="translate(132.000000, 0.000000)">
+                                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
+                                <g transform="translate(3.000000, 3.000000)" id="Vector-5" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M3.50004945,4.26694592 L10.499949,4.26694592 M4.37503689,6.82590918 L9.62496151,6.82590918 M3.6630468,0 L10.3379514,0 C12.3754834,0.0154064218 14.0148652,1.67941057 14,3.71694664 L14,8.22988124 C14.007084,9.20852459 13.6252004,10.1499365 12.9382582,10.8470051 C12.2513168,11.5440738 11.3155938,11.9396936 10.3369514,11.9468284 L3.6630468,11.9468284 L0,13.999799 L0,3.71694664 C-0.00708736322,2.73830399 0.374797808,1.79689184 1.06173928,1.0998233 C1.74868078,0.402754912 2.68440396,0.00713460277 3.6630468,0 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
